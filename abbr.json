@@ -4,22 +4,32 @@
       "The anchor bible":"AB",
       "Anecdota oxoniensia": "AnecOx",
       "Biblica et orientalia": "BO",
+      "Commentaries on early jewish literature": "CEJL",
       "Corpus scriptorum christianorum orientalium": "CSCO",
       "Corpus scriptorum christianorum orientalium 510; scriptores aethiopici 87": "CSCO 510; SA 87",
+      "Deuterocanonical and cognate literature studies": "DCLS",
       "Discoveries in the judaean desert": "DJD",
+      "Fontes et subsidia ad bibliam pertinentes": "FSBP",
       "Forschungen zum alten testament": "FzAT",
+      "Guides to biblical scholarship: Old testament series":"GBS:OTS",
       "Harvard semitic monographs": "HSM",
       "The heritage of sociology": "HS",
+      "Jewish apocryphal literature series": "JALS",
       "Journal for the study of the old testament, supplement series":"JSOTsup",
+      "Library of ancient israel": "LAI",
+      "The library of second temple studies": "LSTS",
       "Media and cultural memory": "MCM",
       "Old testament library": "OTL",
+      "Österreichische biblische studien": "ÖBS",
       "Perspectives on hebrew scriptures and its contexts": "PHSC",
       "Pseudepigrapha veteris testamenti graece": "PVTG",
       "Semeia studies": "SemSt",
       "SBL ancient israel and its literature": "SBLAIL",
       "Studia post-biblica": "StPB", 
       "Studies on the texts of the desert of judah": "STDJ",
-      "Supplements to the journal for the study of judaism": "JSJsup"
+      "Supplements to the journal for the study of judaism": "JSJsup",
+      "Supplements to vetus testamentum": "VTsup",
+      "Wissenschaftliche untersuchungen zum neuen testament": "WUNT"
     }
   }
 }
